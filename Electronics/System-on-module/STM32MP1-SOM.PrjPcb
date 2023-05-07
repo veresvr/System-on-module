@@ -38,7 +38,7 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=STM32MP1-SOM.SchDoc
+DocumentPath=STM32MP1-SOM-MAIN.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -157,12 +157,12 @@ GenerateClassCluster=0
 DocumentUniqueId=DTIKWLBQ
 
 [Parameter1]
-Name=VersionRevision
-Value=1.0
-
-[Parameter2]
 Name=Project
 Value=STM32MP1 SOM
+
+[Parameter2]
+Name=VersionRevision
+Value=1.0
 
 [Configuration1]
 Name=Sources
